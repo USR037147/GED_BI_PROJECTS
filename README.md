@@ -1,2 +1,2 @@
-# GEC_PROJECTS
-This is a place to save the co-workers' projects 
+# GED_BI_PROJECTS
+This is a place to save the BI-BANCIO co-workers' projects 
